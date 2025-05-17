@@ -1,2 +1,0 @@
-# PasswordChecker-
-Html CSS javascript 
